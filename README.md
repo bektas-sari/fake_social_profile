@@ -1,4 +1,4 @@
-# 📱 Fake Social Profile UI
+# 📱 Fake Social Profile UI (Flutter)
 
 A beautifully crafted Flutter UI that mimics a real social media profile. 
 This project demonstrates clean UI components like profile image, bio, follower statistics, and a responsive post grid — all styled with modern Flutter Material 3 elements.
