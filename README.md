@@ -1,0 +1,73 @@
+# 📱 Fake Social Profile UI
+
+A beautifully crafted Flutter UI that mimics a real social media profile. This project demonstrates clean UI components like profile image, bio, follower statistics, and a responsive post grid — all styled with modern Flutter Material 3 elements.
+
+---
+
+## 🚀 Features
+
+- 👤 Profile picture, name, username, and bio
+- 📊 Stats for posts, followers, following
+- 🧭 TabBar navigation with tabs (Posts, Saved)
+- 🖼 GridView layout with placeholder images
+- 🎨 Responsive and elegant UI with Material 3
+
+---
+
+## 🖼 Screenshots
+
+_Add screenshots here if needed (e.g., assets/screenshots/profile.png)_
+
+---
+
+## 🛠 Built With
+
+- Flutter & Dart  
+- TabBar & TabBarView  
+- GridView  
+- Material 3 theme  
+- NetworkImage & Placeholder UI
+
+---
+
+## 📦 Getting Started
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/yourusername/fake_social_profile.git
+cd fake_social_profile
+```
+
+2. **Install dependencies**
+
+```bash
+flutter pub get
+```
+
+3. **Run the app**
+
+```bash
+flutter run
+```
+
+---
+
+## ✏️ Customization
+
+You can update the username, bio, stats, or image URLs by editing values in the `ProfilePage` widget in `main.dart`.
+
+---
+
+## 📬 Contact
+
+Created by **Bektas Sari**  
+📧 Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
+
+---
+
+## 📄 License
+
+MIT License © 2024 Bektas Sari
+
+
