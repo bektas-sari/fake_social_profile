@@ -15,12 +15,6 @@ This project demonstrates clean UI components like profile image, bio, follower 
 
 ---
 
-## 🖼 Screenshots
-
-_Add screenshots here if needed (e.g., assets/screenshots/profile.png)_
-
----
-
 ## 🛠 Built With
 
 - Flutter & Dart  
@@ -36,7 +30,7 @@ _Add screenshots here if needed (e.g., assets/screenshots/profile.png)_
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/fake_social_profile.git
+git clone https://github.com/bektas-sari/fake_social_profile.git
 cd fake_social_profile
 ```
 
