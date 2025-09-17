@@ -53,8 +53,12 @@ flutter run
 You can update the username, bio, stats, or image URLs by editing values in the `ProfilePage` widget in `main.dart`.
 
 ---
+## 👤 Developer
 
-**Bektas Sari**  
+**Bektaş Sarı**
+PhD in Advertising, AI + Creativity researcher
+Flutter Developer & Software Educator
+
 - **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
 - **GitHub:** [github.com/bektas-sari](https://github.com/bektas-sari)  
 - **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)  
